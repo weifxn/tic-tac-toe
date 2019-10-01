@@ -1,0 +1,35 @@
+App {
+  margin: 20px;
+}
+.title {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+.card {
+  margin-top: 20px;
+}
+
+.card-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-left {
+  margin-bottom: -50px;
+  text-align: right;
+  padding: -200px;
+}
+
+.card-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  margin: 20px;
+}
+
+.info {
+  margin: 20px;
+}
